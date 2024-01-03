@@ -1,1 +1,3 @@
 # M3D
+## This work has been accepted in AAAI-24.
+## I am currently focused on meeting other deadlines. The source code will be released soon...
